@@ -2,7 +2,7 @@
 
 ReelEstate is an application that turns static real estate images into fully edited real estate video slideshows.
 
-View demo: https://reelestate.vercel.app/
+View demo: https://shotstack.io/demos/real-estate-video-listing-maker/
 
 ## Getting Started
 
